@@ -123,7 +123,7 @@
 			<scope>test</scope>
 		</dependency>
 		
-				<!-- Apache Commons Util (IO, FileUpload) -->
+		<!-- Apache Commons Util (IO, FileUpload) -->
 		<dependency>
 		    <groupId>commons-io</groupId>
 		    <artifactId>commons-io</artifactId>
